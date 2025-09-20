@@ -1,6 +1,6 @@
 # Uppgift 2 – Programmering Nivå 1
 
-## 📖 Beskrivning
+## Beskrivning
 Detta program innehåller flera små övningar för att träna på **villkor (if/else)** och logiska operatorer i Python.  
 Programmet är menybaserat – du kan välja vilken övning du vill köra.
 
@@ -15,7 +15,7 @@ Programmet är menybaserat – du kan välja vilken övning du vill köra.
 
 ---
 
-## ▶️ Så här kör du
+## Så här kör du
 1. Öppna **Kommandotolken** (eller PowerShell).  
 2. Navigera till mappen där filen ligger:  
    ```bash
@@ -29,7 +29,7 @@ Programmet är menybaserat – du kan välja vilken övning du vill köra.
 
 ---
 
-## 💻 Exempelutskrift
+## Exempelutskrift
 ```
 === Menu ===
 1) Exercise 1: Even or odd
@@ -47,14 +47,14 @@ Odd
 
 ---
 
-## ✅ Funktioner
+## Funktioner
 - Säkrare heltalsinmatning (programmet ber om nytt värde om man skriver fel).  
 - Meny så man enkelt kan testa alla uppgifter utan att starta om programmet.  
 - Bonusdel som tränar på `lower()` och listor.  
 
 ---
 
-## 📂 Filstruktur
+## Filstruktur
 ```
 Uppgift-2/
 │
@@ -65,4 +65,4 @@ Uppgift-2/
 ---
 
 ## ✍️ Författare
-- *Ditt namn här*
+- Lucas Bergman
